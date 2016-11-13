@@ -1,0 +1,10 @@
+Django==1.10.3
+argparse==1.2.1
+future==0.15.2
+gunicorn==19.4.5
+pycryptodome==3.4
+pyjwkest==1.1.0
+requests==2.11.1
+six==1.10.0
+wsgiref==0.1.2
+mock
